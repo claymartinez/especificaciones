@@ -1,0 +1,32 @@
+body {
+  background: #ddd6f3; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #faaca8,
+    #ddd6f3
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #faaca8,
+    #ddd6f3
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h1 {
+  background: #616161; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #9bc5c3,
+    #616161
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #9bc5c3, #616161);
+  color: white;
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+h2 {
+  color: white;
+}
+
+i {
+  color: white;
+}
